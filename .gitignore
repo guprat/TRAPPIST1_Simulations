@@ -1,5 +1,5 @@
 # Ignore system files
 .DS_Store
 
-# Remove Checkpoint files
+# Ignore Checkpoint files
 .ipynb_checkpoints/
